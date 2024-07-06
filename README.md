@@ -1,8 +1,11 @@
 Logistic Regression
+
 Ensemble methods:
   AdaBoost
   Random forests
+
 KMeans
+
 ANN
 
 Dataset:
